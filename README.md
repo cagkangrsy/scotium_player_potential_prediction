@@ -13,7 +13,7 @@
 | **position_id  :** | Position id. (Goalkeeper, central back, central midfielder, forward, etc.) |
 | **analysis_id :** | A set containing a scout's attribute evaluations of a player in a match. |
 | **attribute_id  :** | Attribute id. |
-| **attribute_value :** | ttribute value given by scout. |
+| **attribute_value :** | Attribute value given by scout. |
 
 ## Run on your PC
 
