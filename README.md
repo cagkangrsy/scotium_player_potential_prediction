@@ -1,6 +1,6 @@
 # Scotium Player Potential Prediction
 
-**Problem:** Scoutium makes you visible to clubs by providing your match videos & robust scout analyses of your performances. There are millions of soccer players around the world. Scoutium goes with mission to allow all the talented players and scouts in the world to be discovered. With the dataset full of players, attributes and ratings given by scouts is it possible to predict potential of players?
+**Problem:** Scoutium makes you visible to clubs by providing your match videos & robust scout analyses of your performances. There are millions of soccer players around the world. Scoutium goes with mission to allow all the talented players and scouts in the world to be discovered. With the dataset full of players, attributes and ratings given by scouts is it possible to predict the potential of players?
 
 ## Dataset
 
